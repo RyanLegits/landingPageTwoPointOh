@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	font-size: 1.1rem;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+li {
+	font-size: 1.1rem;
+}
+
+.header {
+	display: flex;
+	background: #1F2937;
+	color: #F9FAF8;
+	align-items: center;
+	padding: 1em;
+}
+
+.header div {
+	flex: 1 1 auto;
+	margin: 0em 6em;
+}
+
+.nav-menu {
+	display: flex;
+	gap: 2.1em;
+	justify-content: right;
+	list-style-type: none;
+	color: #E5E7EB;
+}
