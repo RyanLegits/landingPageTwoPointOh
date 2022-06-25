@@ -138,3 +138,22 @@ li {
 	padding: .5em;
 	color: #4B5563;
 }
+
+/*############### QUOTE ###############*/
+
+.quote {
+	padding: 5em 10em;
+	background-color: #E5E7EB;
+}
+
+.quotetext {
+	font-size: 2.5rem;
+	font-style: italic;
+	color: #1F2937;
+}
+
+.quotename{
+	text-align: right;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
