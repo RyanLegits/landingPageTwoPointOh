@@ -1,7 +1,6 @@
 * {
 	margin: 0;
 	padding: 0;
-	border: 1px solid red;
 }
 
 html {
@@ -156,4 +155,52 @@ li {
 	text-align: right;
 	font-weight: bold;
 	font-size: 1.5rem;
+}
+
+/*############### CALL ###############*/
+
+.call {
+	padding: 5em;
+}
+
+.action {
+	background-color: #3882F6;
+	border-radius: 10px;
+	padding: 3em 7em;
+	display: flex;
+	align-items: center;
+}
+
+.calltxt {
+	color: #FFFFFF;
+	font-size: 1.5em;
+}
+
+.signuptxt {
+	color: #D0DAEC;
+}
+
+#btn-bottom-container {
+	margin-left: auto;
+}
+
+#btn-bottom {
+	background-color: #3882F6;
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+/*############### FOOTER ###############*/
+
+#btn-bottom {
+	background-color: #3882F6;
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+.footer {
+	color: #FFFFFF;
+	background-color: #1F2937;
+	text-align: center;
+	padding: 2.5em;
 }
